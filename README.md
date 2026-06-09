@@ -2,7 +2,7 @@
 
 Deep Agents Chatbot is a Streamlit demo and learning project built around LangChain, LangGraph, Groq, and the `deepagents` ecosystem. It shows how to build a conversational agent that can reason, search the web, keep thread-based memory, work with virtual files, and demonstrate context engineering patterns across a set of guided notebooks.
 
-Live app: https://deep-agent-m7wsjnbgwz3z2c3lxfpwxk.streamlit.app/
+Live app: https://deep-agents-ddnorp9gvxqwbjgnapp4e7v.streamlit.app/
 
 ## Overview
 
