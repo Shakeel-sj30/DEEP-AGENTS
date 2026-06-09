@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+deepagentscourse.egg-info/PKG-INFO
+deepagentscourse.egg-info/SOURCES.txt
+deepagentscourse.egg-info/dependency_links.txt
+deepagentscourse.egg-info/requires.txt
+deepagentscourse.egg-info/top_level.txt
